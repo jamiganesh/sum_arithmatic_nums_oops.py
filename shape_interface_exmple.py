@@ -40,6 +40,7 @@ print(s1.perimeter())
 
 r1 = Rectangle(4,2) 
 print(r1.area())    
+print(r1.perimeter())  
 
 
 
